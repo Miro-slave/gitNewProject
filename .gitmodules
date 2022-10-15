@@ -1,0 +1,3 @@
+[submodule "labwork2_gitflow"]
+	path = labwork2_gitflow
+	url = https://github.com/Miro-slave/labwork2_gitflow.git
